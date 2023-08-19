@@ -6,7 +6,8 @@ Power BI Dashboard for Pokemon TCG Dataset
 
 - Power BI installation
 - SQL Server installation
-#Instructions
+
+# Instructions
 - Using either the .bak or the .sql file, create a database in SQL Server for the dataset
 - Open the .pbix file, click on the drop down for `Transform Data` and click `Data Source Settings`:
 
