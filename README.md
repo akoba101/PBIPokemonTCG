@@ -17,4 +17,4 @@ Power BI Dashboard for Pokemon TCG Dataset
 
 # Preview
 
-<iframe title="DashboardPrelim3" width="600" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiZjhhYWZjNTEtODBjMS00MGYzLWIyMTktNDU0YjUwYTllOTMyIiwidCI6Ijc5MDg2M2E4LWE1MDAtNDZhMS04ZDA1LWQ0YzEzNzA0OTZjMiJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiZjhhYWZjNTEtODBjMS00MGYzLWIyMTktNDU0YjUwYTllOTMyIiwidCI6Ijc5MDg2M2E4LWE1MDAtNDZhMS04ZDA1LWQ0YzEzNzA0OTZjMiJ9&pageName=ReportSection
