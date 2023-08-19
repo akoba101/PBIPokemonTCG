@@ -2,7 +2,7 @@
 
 Power BI Dashboard for Pokemon TCG Dataset
 
-#Requirements
+# Requirements
 
 - Power BI installation
 - SQL Server installation
