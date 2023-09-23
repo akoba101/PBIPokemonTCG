@@ -1,6 +1,6 @@
 # PBIPokemonTCG
 
-Power BI Dashboard for Pokemon TCG Dataset
+Power BI Dashboard for Pokemon TCG Dataset. For more information about this repository, please check see the [wiki page](https://wiki.kinobasho.com/).
 
 # Requirements
 
